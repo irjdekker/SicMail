@@ -6,6 +6,9 @@ checkfile="$workdirectory/start"
 filename="$workdirectory/maillist.txt"
    
 if [ -f $checkfile ]; then
+  rm -f $checkfile
+  /usr/bin/git push
+  
   echo Starting mailing...
 
   while read p; do 
@@ -14,6 +17,4 @@ if [ -f $checkfile ]; then
   done < $filename
 
   echo End mailing!
-  
-  rm -f $checkfile
 fi
