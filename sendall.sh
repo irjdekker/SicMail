@@ -7,6 +7,7 @@ filename="$workdirectory/maillist.txt"
    
 if [ -f $checkfile ]; then
   rm -f $checkfile
+  /usr/bin/git commit -a
   /usr/bin/git push
   
   echo Starting mailing...
