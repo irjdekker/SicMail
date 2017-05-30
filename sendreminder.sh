@@ -13,7 +13,7 @@ if [ -f $checkfile ]; then
   echo Starting mailing...
 
   while read p; do
-    echo $p | awk -F"," '{system("$workdirectory/reminder/mail.sh \""$1 "\" \"" $2 "\"")}'
+    echo $p | awk -F"," '{system("$./reminder/mail.sh \""$1 "\" \"" $2 "\"")}'
     sleep 30
   done < $filename
 
