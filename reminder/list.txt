@@ -12,7 +12,6 @@ Lisa,lisa.coppens@itility.
 Hajo,hajo.de.groot@itility.nl
 Mark,mark.van.domburg@itility.nl
 Mark,mark.van.kessel@itility.nl
-Michiel,michiel.mous@itility.nl
 Nick,nick.bronkhorst@itility.nl
 Olaf,olaf.de.wit@itility.nl
 Roel,roel.thijssen@itility.nl
