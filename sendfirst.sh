@@ -10,12 +10,12 @@ if [ -f $checkfile ]; then
   /usr/bin/git commit -a -m "Commit"
   /usr/bin/git push
 
-  echo Starting mailing...
+  echo Starting mailing... > $workdirectory/sendfirst.log
 
   while read p; do
-    echo $p | awk -F"," '{system("./first/mail.sh \""$1 "\" \"" $2 "\"")}'
+    echo $p | awk -F"," '{system("./first/mail.sh \""$1 "\" \"" $2 "\"")}' >> $workdirectory/sendfirst.log
     sleep 30
   done < $filename
 
-  echo End mailing!
+  echo End mailing! >> $workdirectory/sendfirst.log
 fi
