@@ -1,10 +1,11 @@
 Total number of users receiving the e-mail: 46
 
 
-*** Only browsing users (2) ***
+*** Only browsing users (3) ***
 
 Fri Jun 02 16:51:00,leendert.van.duijn@itility.nl,true,false,false,,0
 Fri Jun 02 16:29:00,fleur.kappen@itility.nl,true,false,false,,0
+Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
 
 
 *** Only typing and not submitting users (1) ***
@@ -37,7 +38,7 @@ Fri Jun 02 16:13:00,jitse-jan.van.waterschoot@itility.nl,true,true,true,Ly******
 Fri Jun 02 16:08:00,bram.erven@itility.nl,true,true,true,WA*******,9
 
 
-*** Users not responding to e-mail (22) ***
+*** Users not responding to e-mail (21) ***
 
 n/a,bas.cloin@itility.nl,false,false,false,,0
 n/a,dhiraj.ausan@itility.nl,false,false,false,,0
@@ -59,5 +60,4 @@ n/a,roel.thijssen@itility.nl,false,false,false,,0
 n/a,sam.van.beuningen@itility.nl,false,false,false,,0
 n/a,seref.kara@itility.nl,false,false,false,,0
 n/a,valery.tomsjansen@itility.nl,false,false,false,,0
-n/a,vincent.de.bruijn@itility.nl,false,false,false,,0
 n/a,wouter.hermkens@itility.nl,false,false,false,,0

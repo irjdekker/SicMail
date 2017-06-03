@@ -18,5 +18,4 @@ Roel,roel.thijssen@itility.nl
 Sam,sam.van.beuningen@itility.nl
 Seref,seref.kara@itility.nl
 Valery,valery.tomsjansen@itility.nl
-Vincent,vincent.de.bruijn@itility.nl
 Wouter,wouter.hermkens@itility.nl
