@@ -1,10 +1,8 @@
-Total number of users receiving the e-mail: 46
+Total number of users receiving the e-mail: 40
 
 
-*** Only browsing users (3) ***
+*** Only browsing users (1) ***
 
-Fri Jun 02 16:51:00,leendert.van.duijn@itility.nl,true,false,false,,0
-Fri Jun 02 16:29:00,fleur.kappen@itility.nl,true,false,false,,0
 Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
 
 
@@ -13,11 +11,9 @@ Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
 Fri Jun 02 22:14:00,gokhan.altan@itility.nl,true,true,false,Pa********,10
 
 
-*** Phished users (21) ***
+*** Phished users (19) ***
 
-Fri Jun 02 22:34:00,jeroen.dekker@itility.nl,true,true,true,aa***,5
 Fri Jun 02 22:33:00,michiel.mous@itility.nl,true,true,true,It**********,12
-Fri Jun 02 21:41:00,henk-jan.castermans@itility.nl,true,true,true,LU*,3
 Fri Jun 02 19:21:00,martijn.sanders@itility.nl,true,true,true,01*********,11
 Fri Jun 02 19:01:00,dion.vermarien@itility.nl,true,true,true,Ah******,8
 Fri Jun 02 17:33:00,anne.willem.landman@itility.nl,true,true,true,Ka*************,15
@@ -38,20 +34,18 @@ Fri Jun 02 16:13:00,jitse-jan.van.waterschoot@itility.nl,true,true,true,Ly******
 Fri Jun 02 16:08:00,bram.erven@itility.nl,true,true,true,WA*******,9
 
 
-*** Users not responding to e-mail (21) ***
+*** Users not responding to e-mail (19) ***
 
 n/a,bas.cloin@itility.nl,false,false,false,,0
 n/a,dhiraj.ausan@itility.nl,false,false,false,,0
 n/a,didier.van.heemst@itility.nl,false,false,false,,0
 n/a,dieuwertje.woudstra@itility.nl,false,false,false,,0
 n/a,erwin.kuipers@itility.nl,false,false,false,,0
-n/a,patrick.dielesen@itility.nl,false,false,false,,0
 n/a,fer.van.rijswijk@itility.nl,false,false,false,,0
 n/a,fred.jansen@itility.nl,false,false,false,,0
 n/a,joris.van.eldik@itility.nl,false,false,false,,0
 n/a,lindsey.muijlwijk@itility.nl,false,false,false,,0
 n/a,lisa.coppens@itility.,false,false,false,,0
-n/a,hajo.de.groot@itility.nl,false,false,false,,0
 n/a,mark.van.domburg@itility.nl,false,false,false,,0
 n/a,mark.van.kessel@itility.nl,false,false,false,,0
 n/a,nick.bronkhorst@itility.nl,false,false,false,,0
