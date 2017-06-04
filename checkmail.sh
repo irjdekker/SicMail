@@ -10,7 +10,13 @@ echo "From: $from"
 echo "To: $to"
 echo "MIME-Version: 1.0"
 echo "Subject: $subject"
-echo "Content-Type: text/plain"
+echo "Content-Type: text/html; charset=UTF-8"
 echo ""
-cat $workdirectory/check_output.txt
+echo "<html>"
+echo "<head>"
+echo "<title>Pull Update</title>"
+echo "</head>"
+echo "<body>"
+cat $workdirectory/check_output.txt | sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/<br>\n/g'
+echo "</body>"
 ) | /usr/sbin/sendmail -t
