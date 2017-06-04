@@ -80,16 +80,16 @@ while read p; do
 done < $filename
 
 printf "Total number of users receiving the e-mail: $num_users\n"
-printf "\n\n"
-printf "*** Only browsing users ($(($num_connected-$num_typed))) ***\n\n"
+printf "\n"
+printf "*** Only browsing users ($(($num_connected-$num_typed))) ***\n"
 cat $tempfile | grep "true,false,false" | sort -r -s -k 2M -k 3n -k 4,4
-printf "\n\n"
-printf "*** Only typing and not submitting users ($(($num_typed-$num_submitted))) ***\n\n"
+printf "\n"
+printf "*** Only typing and not submitting users ($(($num_typed-$num_submitted))) ***\n"
 cat $tempfile | grep "true,true,false" | sort -r -s -k 2M -k 3n -k 4,4
-printf "\n\n"
-printf "*** Phished users ($num_submitted) ***\n\n"
+printf "\n"
+printf "*** Phished users ($num_submitted) ***\n"
 cat $tempfile | grep "true,true,true" | sort -r -s -k 2M -k 3n -k 4,4
-printf "\n\n"
-printf "*** Users not responding to e-mail ($(($num_users-$num_connected))) ***\n\n"
+printf "\n\"
+printf "*** Users not responding to e-mail ($(($num_users-$num_connected))) ***\n"
 cat $tempfile | grep "false,false,false"
 

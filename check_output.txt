@@ -1,18 +1,12 @@
 Total number of users receiving the e-mail: 40
 
-
 *** Only browsing users (1) ***
-
 Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
 
-
 *** Only typing and not submitting users (1) ***
-
 Fri Jun 02 22:14:00,gokhan.altan@itility.nl,true,true,false,Pa********,10
 
-
 *** Phished users (19) ***
-
 Fri Jun 02 22:33:00,michiel.mous@itility.nl,true,true,true,It**********,12
 Fri Jun 02 19:21:00,martijn.sanders@itility.nl,true,true,true,01*********,11
 Fri Jun 02 19:01:00,dion.vermarien@itility.nl,true,true,true,Ah******,8
@@ -32,26 +26,3 @@ Fri Jun 02 16:17:00,maarten.slenter@itility.nl,true,true,true,hJ*************,15
 Fri Jun 02 16:16:00,ivo.janssen@itility.nl,true,true,true,La******,8
 Fri Jun 02 16:13:00,jitse-jan.van.waterschoot@itility.nl,true,true,true,Ly*******,9
 Fri Jun 02 16:08:00,bram.erven@itility.nl,true,true,true,WA*******,9
-
-
-*** Users not responding to e-mail (19) ***
-
-n/a,bas.cloin@itility.nl,false,false,false,,0
-n/a,dhiraj.ausan@itility.nl,false,false,false,,0
-n/a,didier.van.heemst@itility.nl,false,false,false,,0
-n/a,dieuwertje.woudstra@itility.nl,false,false,false,,0
-n/a,erwin.kuipers@itility.nl,false,false,false,,0
-n/a,fer.van.rijswijk@itility.nl,false,false,false,,0
-n/a,fred.jansen@itility.nl,false,false,false,,0
-n/a,joris.van.eldik@itility.nl,false,false,false,,0
-n/a,lindsey.muijlwijk@itility.nl,false,false,false,,0
-n/a,lisa.coppens@itility.,false,false,false,,0
-n/a,mark.van.domburg@itility.nl,false,false,false,,0
-n/a,mark.van.kessel@itility.nl,false,false,false,,0
-n/a,nick.bronkhorst@itility.nl,false,false,false,,0
-n/a,olaf.de.wit@itility.nl,false,false,false,,0
-n/a,roel.thijssen@itility.nl,false,false,false,,0
-n/a,sam.van.beuningen@itility.nl,false,false,false,,0
-n/a,seref.kara@itility.nl,false,false,false,,0
-n/a,valery.tomsjansen@itility.nl,false,false,false,,0
-n/a,wouter.hermkens@itility.nl,false,false,false,,0
