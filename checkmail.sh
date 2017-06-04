@@ -17,6 +17,6 @@ echo "<head>"
 echo "<title>Pull Update</title>"
 echo "</head>"
 echo "<body>"
-cat $workdirectory/check_output.txt | sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/<br>\n/g'
+cat $workdirectory/check_output.txt | sed -e ':a' -e 'N' -e '$!ba' -e 's/\n/<br>\n/g' | sed -e 's/,/, /g'
 echo "</body>"
 ) | /usr/sbin/sendmail -t
