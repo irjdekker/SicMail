@@ -89,7 +89,6 @@ cat $tempfile | grep "true,true,false" | sort -r -s -k 2M -k 3n -k 4,4
 printf "\n"
 printf "*** Phished users ($num_submitted) ***\n"
 cat $tempfile | grep "true,true,true" | sort -r -s -k 2M -k 3n -k 4,4
-printf "\n\"
+printf "\n"
 printf "*** Users not responding to e-mail ($(($num_users-$num_connected))) ***\n"
 cat $tempfile | grep "false,false,false"
-
