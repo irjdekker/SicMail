@@ -12,7 +12,7 @@ then
   mv $tempfile $filename
   $workdirectory/checkmail.sh
   /usr/bin/git add .
-  /usr/bin/git commit -a -m "Commit"
+  /usr/bin/git commit -q -a -m "Commit"
   /usr/bin/git push
 else
   rm -f $tempfile
