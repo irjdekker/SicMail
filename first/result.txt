@@ -8,7 +8,7 @@ Tue Jun 06 09:00:00,dieuwertje.woudstra@itility.nl,true,true,false,Be*******,9
 Fri Jun 02 19:01:00,dion.vermarien@itility.nl,true,true,true,Ah******,8
 Fri Jun 02 16:20:00,don.willems@itility.nl,true,true,true,in************,14
 Mon Jun 05 11:08:00,erwin.kuipers@itility.nl,true,true,true,Ka**********,12
-n/a,fer.van.rijswijk@itility.nl,false,false,false,,0
+Tue Jun 06 19:06:00,fer.van.rijswijk@itility.nl,true,false,false,,0
 n/a,fred.jansen@itility.nl,false,false,false,,0
 Fri Jun 02 22:14:00,gokhan.altan@itility.nl,true,true,false,Pa********,10
 Fri Jun 02 16:16:00,ivo.janssen@itility.nl,true,true,true,La******,8
