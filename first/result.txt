@@ -2,7 +2,7 @@ date,mail,connected,typed,submitted,password,length
 Fri Jun 02 17:33:00,anne.willem.landman@itility.nl,true,true,true,Ka*************,15
 Tue Jun 06 09:26:00,bas.cloin@itility.nl,true,true,true,it*********,11
 Fri Jun 02 16:08:00,bram.erven@itility.nl,true,true,true,WA*******,9
-n/a,dhiraj.ausan@itility.nl,false,false,false,,0
+Tue Jun 06 14:50:00,dhiraj.ausan@itility.nl,true,true,true,JZ********,10
 n/a,didier.van.heemst@itility.nl,false,false,false,,0
 Tue Jun 06 09:00:00,dieuwertje.woudstra@itility.nl,true,true,false,Be*******,9
 Fri Jun 02 19:01:00,dion.vermarien@itility.nl,true,true,true,Ah******,8
@@ -36,6 +36,6 @@ Fri Jun 02 16:38:00,tessa.van.schijndel@itility.nl,true,true,true,Te********,10
 Fri Jun 02 16:24:00,thom.koomen@itility.nl,true,true,true,BO************,14
 Fri Jun 02 16:24:00,tim.janssen@itility.nl,true,true,true,It********,10
 n/a,valery.tomsjansen@itility.nl,false,false,false,,0
-Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
+Tue Jun 06 14:59:00,vincent.de.bruijn@itility.nl,true,true,true,Vi*******************,21
 Fri Jun 02 16:42:00,vincent.lichtenberg@itility.nl,true,true,true,Co*********,11
 Tue Jun 06 10:17:00,wouter.hermkens@itility.nl,true,true,true,Jo*************,15

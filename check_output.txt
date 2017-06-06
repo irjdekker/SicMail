@@ -1,14 +1,15 @@
 *** Total number of users that received the e-mail: 40 ***
 
-*** Users that only browsed (1) ***
-Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
+*** Users that only browsed (0) ***
 
 *** Users that started typing, but did not submit (3) ***
 Tue Jun 06 09:00:00,dieuwertje.woudstra@itility.nl,true,true,false,Be*******,9
 Tue Jun 06 08:33:00,mark.van.kessel@itility.nl,true,true,false,T@**********,12
 Fri Jun 02 22:14:00,gokhan.altan@itility.nl,true,true,false,Pa********,10
 
-*** Users that have been phished (29) ***
+*** Users that have been phished (31) ***
+Tue Jun 06 14:59:00,vincent.de.bruijn@itility.nl,true,true,true,Vi*******************,21
+Tue Jun 06 14:50:00,dhiraj.ausan@itility.nl,true,true,true,JZ********,10
 Tue Jun 06 13:38:00,seref.kara@itility.nl,true,true,true,H!***********,13
 Tue Jun 06 10:38:00,joris.van.eldik@itility.nl,true,true,true,SH*******,9
 Tue Jun 06 10:28:00,sam.van.beuningen@itility.nl,true,true,true,Ap*************,15
@@ -39,8 +40,7 @@ Fri Jun 02 16:16:00,ivo.janssen@itility.nl,true,true,true,La******,8
 Fri Jun 02 16:13:00,jitse-jan.van.waterschoot@itility.nl,true,true,true,Ly*******,9
 Fri Jun 02 16:08:00,bram.erven@itility.nl,true,true,true,WA*******,9
 
-*** Users that have not responded to the e-mail (7) ***
-n/a,dhiraj.ausan@itility.nl,false,false,false,,0
+*** Users that have not responded to the e-mail (6) ***
 n/a,didier.van.heemst@itility.nl,false,false,false,,0
 n/a,fer.van.rijswijk@itility.nl,false,false,false,,0
 n/a,fred.jansen@itility.nl,false,false,false,,0
