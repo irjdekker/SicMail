@@ -1,5 +1,4 @@
 Jeroen,jeroen.dekker@itility.nl
-Didier,didier.van.heemst@itility.nl
 Patrick,patrick.dielesen@itility.nl
 Fer,fer.van.rijswijk@itility.nl
 Fred,fred.jansen@itility.nl
