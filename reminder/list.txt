@@ -7,7 +7,6 @@ Patrick,patrick.dielesen@itility.nl
 Fer,fer.van.rijswijk@itility.nl
 Fred,fred.jansen@itility.nl
 Joris,joris.van.eldik@itility.nl
-Lindsey,lindsey.muijlwijk@itility.nl
 Lisa,lisa.coppens@itility.
 Hajo,hajo.de.groot@itility.nl
 Mark,mark.van.domburg@itility.nl
