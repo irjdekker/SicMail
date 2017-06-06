@@ -3,13 +3,13 @@
 *** Users that only browsed (1) ***
 Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
 
-*** Users that started typing, but did not submit (4) ***
-Tue Jun 06 09:45:00,seref.kara@itility.nl,true,true,false,H!***********,13
+*** Users that started typing, but did not submit (3) ***
 Tue Jun 06 09:00:00,dieuwertje.woudstra@itility.nl,true,true,false,Be*******,9
 Tue Jun 06 08:33:00,mark.van.kessel@itility.nl,true,true,false,T@**********,12
 Fri Jun 02 22:14:00,gokhan.altan@itility.nl,true,true,false,Pa********,10
 
-*** Users that have been phished (28) ***
+*** Users that have been phished (29) ***
+Tue Jun 06 13:38:00,seref.kara@itility.nl,true,true,true,H!***********,13
 Tue Jun 06 10:38:00,joris.van.eldik@itility.nl,true,true,true,SH*******,9
 Tue Jun 06 10:28:00,sam.van.beuningen@itility.nl,true,true,true,Ap*************,15
 Tue Jun 06 10:17:00,wouter.hermkens@itility.nl,true,true,true,Jo*************,15
