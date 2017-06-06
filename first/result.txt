@@ -21,7 +21,7 @@ Fri Jun 02 16:24:00,luuk.tersmette@itility.nl,true,true,true,Ad********,10
 Fri Jun 02 16:23:00,maarten.hazeu@itility.nl,true,true,true,Im***********,13
 Fri Jun 02 16:22:00,maarten.hofmeester@itility.nl,true,true,true,We************,14
 Fri Jun 02 16:17:00,maarten.slenter@itility.nl,true,true,true,hJ*************,15
-n/a,mark.van.domburg@itility.nl,false,false,false,,0
+Tue Jun 06 10:06:00,mark.van.domburg@itility.nl,true,true,true,La**********,12
 Tue Jun 06 08:33:00,mark.van.kessel@itility.nl,true,true,false,T@**********,12
 Fri Jun 02 19:21:00,martijn.sanders@itility.nl,true,true,true,01*********,11
 Fri Jun 02 22:33:00,michiel.mous@itility.nl,true,true,true,It**********,12

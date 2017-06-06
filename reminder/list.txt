@@ -7,7 +7,6 @@ Fred,fred.jansen@itility.nl
 Joris,joris.van.eldik@itility.nl
 Lisa,lisa.coppens@itility.
 Hajo,hajo.de.groot@itility.nl
-Mark,mark.van.domburg@itility.nl
 Henk-Jan,henk-jan.castermans@itility.nl
 Roel,roel.thijssen@itility.nl
 Sam,sam.van.beuningen@itility.nl
