@@ -12,5 +12,4 @@ Roel,roel.thijssen@itility.nl
 Sam,sam.van.beuningen@itility.nl
 Fleur,fleur.kappen@itility.nl
 Valery,valery.tomsjansen@itility.nl
-Wouter,wouter.hermkens@itility.nl
 Leendert,leendert.van.duijn@itility.nl

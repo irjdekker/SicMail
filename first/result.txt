@@ -38,4 +38,4 @@ Fri Jun 02 16:24:00,tim.janssen@itility.nl,true,true,true,It********,10
 n/a,valery.tomsjansen@itility.nl,false,false,false,,0
 Sat Jun 03 13:14:00,vincent.de.bruijn@itility.nl,true,false,false,,0
 Fri Jun 02 16:42:00,vincent.lichtenberg@itility.nl,true,true,true,Co*********,11
-n/a,wouter.hermkens@itility.nl,false,false,false,,0
+Tue Jun 06 10:17:00,wouter.hermkens@itility.nl,true,true,true,Jo*************,15

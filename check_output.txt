@@ -9,7 +9,8 @@ Tue Jun 06 09:00:00,dieuwertje.woudstra@itility.nl,true,true,false,Be*******,9
 Tue Jun 06 08:33:00,mark.van.kessel@itility.nl,true,true,false,T@**********,12
 Fri Jun 02 22:14:00,gokhan.altan@itility.nl,true,true,false,Pa********,10
 
-*** Users that have been phished (25) ***
+*** Users that have been phished (26) ***
+Tue Jun 06 10:17:00,wouter.hermkens@itility.nl,true,true,true,Jo*************,15
 Tue Jun 06 10:06:00,mark.van.domburg@itility.nl,true,true,true,La**********,12
 Tue Jun 06 09:26:00,bas.cloin@itility.nl,true,true,true,it*********,11
 Tue Jun 06 08:35:00,nick.bronkhorst@itility.nl,true,true,true,Vi*******,9
@@ -36,7 +37,7 @@ Fri Jun 02 16:16:00,ivo.janssen@itility.nl,true,true,true,La******,8
 Fri Jun 02 16:13:00,jitse-jan.van.waterschoot@itility.nl,true,true,true,Ly*******,9
 Fri Jun 02 16:08:00,bram.erven@itility.nl,true,true,true,WA*******,9
 
-*** Users that have not responded to the e-mail (10) ***
+*** Users that have not responded to the e-mail (9) ***
 n/a,dhiraj.ausan@itility.nl,false,false,false,,0
 n/a,didier.van.heemst@itility.nl,false,false,false,,0
 n/a,fer.van.rijswijk@itility.nl,false,false,false,,0
@@ -46,4 +47,3 @@ n/a,lisa.coppens@itility.,false,false,false,,0
 n/a,roel.thijssen@itility.nl,false,false,false,,0
 n/a,sam.van.beuningen@itility.nl,false,false,false,,0
 n/a,valery.tomsjansen@itility.nl,false,false,false,,0
-n/a,wouter.hermkens@itility.nl,false,false,false,,0
