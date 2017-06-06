@@ -10,8 +10,6 @@ Joris,joris.van.eldik@itility.nl
 Lisa,lisa.coppens@itility.
 Hajo,hajo.de.groot@itility.nl
 Mark,mark.van.domburg@itility.nl
-Mark,mark.van.kessel@itility.nl
-Nick,nick.bronkhorst@itility.nl
 Henk-Jan,henk-jan.castermans@itility.nl
 Roel,roel.thijssen@itility.nl
 Sam,sam.van.beuningen@itility.nl
