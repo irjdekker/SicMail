@@ -1,5 +1,4 @@
 Jeroen,jeroen.dekker@itility.nl
-Bas,bas.cloin@itility.nl
 Dhiraj,dhiraj.ausan@itility.nl
 Didier,didier.van.heemst@itility.nl
 Patrick,patrick.dielesen@itility.nl
