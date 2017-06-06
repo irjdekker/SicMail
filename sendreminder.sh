@@ -14,7 +14,7 @@ if [ -f $checkfile ]; then
 
   while read p; do
     #echo $p | awk -F"," '{system("$./reminder/mail.sh \""$1 "\" \"" $2 "\"")}' >> $workdirectory/sendreminder.log
-    echo $p | awk -F"," '{print"$1 $2}'
+    echo $p | awk -F"," '{print $1 $2}'
     #sleep 30
   done < $filename
 
