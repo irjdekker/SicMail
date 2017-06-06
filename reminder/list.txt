@@ -9,7 +9,7 @@ Lisa,lisa.coppens@itility.
 Hajo,hajo.de.groot@itility.nl
 Henk-Jan,henk-jan.castermans@itility.nl
 Roel,roel.thijssen@itility.nl
-Sam,sam.van.beuningen@itility.nl
 Fleur,fleur.kappen@itility.nl
 Valery,valery.tomsjansen@itility.nl
+Vincent,vincent.de.bruijn@itility.nl
 Leendert,leendert.van.duijn@itility.nl

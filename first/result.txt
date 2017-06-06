@@ -29,7 +29,7 @@ Tue Jun 06 08:35:00,nick.bronkhorst@itility.nl,true,true,true,Vi*******,9
 Mon Jun 05 22:22:00,olaf.de.wit@itility.nl,true,true,true,Wo**********,12
 Fri Jun 02 16:37:00,oscar.aerdts@itility.nl,true,true,true,Lu******,8
 n/a,roel.thijssen@itility.nl,false,false,false,,0
-n/a,sam.van.beuningen@itility.nl,false,false,false,,0
+Tue Jun 06 10:28:00,sam.van.beuningen@itility.nl,true,true,true,Ap*************,15
 Tue Jun 06 09:45:00,seref.kara@itility.nl,true,true,false,H!***********,13
 Fri Jun 02 16:23:00,simon.muller@itility.nl,true,true,true,Mi********,10
 Fri Jun 02 16:38:00,tessa.van.schijndel@itility.nl,true,true,true,Te********,10

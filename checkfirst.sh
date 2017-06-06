@@ -58,6 +58,8 @@ while read p; do
         length=${#password}
         datum=`cat $userfile | grep "typing" | awk '{print length, $0}' | sort -r -n | head -n 1 | awk '{print $2 " " $3 " " $4 " " $5 " " $6}'`
         newdatum=$(date -d "$datum 2 hours" +'%a %b %d %T')
+      else
+        echo "$user,$mail" >> $listfile
       fi
 
       if [[ $file_content =~ .*submit.* ]]
